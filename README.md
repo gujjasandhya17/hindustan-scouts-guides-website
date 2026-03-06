@@ -12,7 +12,7 @@ The website provides information about the organization including its **mission,
 
 The project is deployed online and can be accessed here:
 
-🔗 https://hindustan-scouts-guides-website.netlify.app/
+🔗 https://hindustan-scouts-guides-website.vercel.app/
 
 ---
 
@@ -106,14 +106,14 @@ hsga-website/
 
 ## Deployment
 
-This project is deployed using **Netlify**.
+This project is deployed using **Vercel**.
 
 Steps used for deployment:
 
 1. Push the project to GitHub.
-2. Connect the GitHub repository to Netlify.
+2. Connect the GitHub repository to Vercel.
 3. Deploy as a **static site**.
 4. No build command required.
 
 Live URL:
-https://hindustan-scouts-guides-website.netlify.app/
+https://hindustan-scouts-guides-website.vercel.app/
