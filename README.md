@@ -70,6 +70,7 @@ The project is deployed online and can be accessed here:
 hsga-website/
 
 │
+
 ├── index.html # Home Page
 
 ├── about.html                 # About the Organization
@@ -84,10 +85,12 @@ hsga-website/
 
 │
 ├── css/
+
 │   └── style.css              # Main stylesheet
 
 │
 ├── js/
+
 │   └── script.js              # JavaScript functionality
 
 │
