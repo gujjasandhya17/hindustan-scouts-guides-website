@@ -85,12 +85,12 @@ hsga-website/
 
 ├── css/
 
-   |
+   
    └── style.css              # Main stylesheet
 
 ├── js/
 
-   |
+   
    └── script.js              # JavaScript functionality
 
 
