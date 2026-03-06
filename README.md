@@ -66,33 +66,22 @@ The project is deployed online and can be accessed here:
 
 ## Project Structure
 
-└── hsga-website (User Interface)
-
-├── index.html (Home Page)  
-├── about.html (About the Organization)  
-├── leadership.html (Leadership & Structure)  
-├── activities.html (Programs and Activities)  
-├── gallery.html (Image Gallery with Lightbox)  
-└── contact.html (Contact Form and Details)  
+hsga-website 
+  ├── index.html (Home Page)  
+  ├── about.html (About the Organization)  
+  ├── leadership.html (Leadership & Structure)  
+  ├── activities.html (Programs and Activities)  
+  ├── gallery.html (Image Gallery with Lightbox)  
+  └── contact.html (Contact Form and Details)  
 
 
 └── css  
-
-├── style.css (Main styles and responsive design)  
-
-
+    ├── 
 └── js  
-
-├── script.js (Menu toggle, gallery lightbox, form validation)  
-
-
+    ├── script.js  
 └── HSGA  
-
-├── Images used across the website and gallery  
-
-
-├── screenshots (Preview images of all pages)  
-└── PROJECT_DOCUMENTATION.md (Detailed project documentation)
+├── screenshots 
+└── PROJECT_DOCUMENTATION.md
 
 ---
 
