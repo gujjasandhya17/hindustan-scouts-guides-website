@@ -83,15 +83,13 @@ hsga-website/
 
 ├── contact.html               # Contact Form and Details
 
-│
 ├── css/
 
-│   └── style.css              # Main stylesheet
+   └── style.css              # Main stylesheet
 
-│
 ├── js/
 
-│   └── script.js              # JavaScript functionality
+   └── script.js              # JavaScript functionality
 
 │
 ├── HSGA/                      # Images used in the website and gallery
