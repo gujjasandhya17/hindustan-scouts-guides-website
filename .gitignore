@@ -1,0 +1,67 @@
+# HSGA Website - Git Ignore File
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+*.code-workspace
+
+# Node modules (if using Node.js tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files (for sensitive data)
+.env
+.env.local
+.env.*.local
+
+# Build & Distribution
+dist/
+build/
+*.min.js
+*.min.css
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
+cache/
+
+# Compiled files
+*.pyc
+*.class
+*.o
+
+# Git
+.git/
+.gitattributes
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS specific
+.AppleDouble
+.LSOverride
+$RECYCLE.BIN/
+
+# For Windows
+*.lnk
